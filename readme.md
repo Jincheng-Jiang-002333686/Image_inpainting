@@ -1,0 +1,10 @@
+﻿Reference:
+https://www.nature.com/articles/s41598-024-72368-1
+https://github.com/qinnzou/mural-image-inpainting
+https://arxiv.org/html/2211.06649v2
+https://github.com/albestobe/PRN
+https://arxiv.org/abs/2104.13743
+https://paperswithcode.com/task/image-inpainting
+https://github.com/MADF-inpainting/Pytorch-MADF
+https://arxiv.org/abs/1804.07723
+https://1drv.ms/u/s!AittnGm6vRKLzXorf1nkiDPRQB4D?e=Avv27i
